@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/bazelchipaike/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BazelChipaike/azure-network-protocols/blob/main/README.md)
+  - [Creating a Virtual Machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/BazelChipaike/Vm-RemoteDesktop)
 
 <h2>🤳Connect with me:</h2>
 
