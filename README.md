@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bazel, an <a href="https://linkedin.com/in/BazelChipaike">IT Professional</a>☺</h1>
+<h1>Hi, I'm Bazel, an <a href=https://www.linkedin.com/in/bazel-chipaike-2710961ab/>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
